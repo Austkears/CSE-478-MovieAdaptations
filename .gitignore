@@ -1,0 +1,5 @@
+movies.db
+*.db-journal
+.venv/
+__pycache__/
+*.log
